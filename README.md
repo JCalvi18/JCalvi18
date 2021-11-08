@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jorge Calvimontes @JCalvi18
-- 👀 I’m interested in: Front-End design and Implementation, Back-End development, Artificial Intelligence research and Comuter Graphics.
+- 👀 I’m interested in: Front-End design and Implementation, Back-End development, Artificial Intelligence research and Computer Graphics.
 - 🌱 I’m currently learning Visual Computing at Saarland University 🦉.
 - 👽 On my free time I like painting 🖌️ and making fractal images 🌌 see:  https://www.instagram.com/__j.a.c_/
 - 💞️ I’m looking to collaborate on single page web application and in mobile applications
